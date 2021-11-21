@@ -38,3 +38,6 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ![Test_Lot2](https://github.com/jaousley/MechaCar_Statistical_Analysis/blob/main/Images/Test_Lot2.png)
 
 ![Test_Lot3](https://github.com/jaousley/MechaCar_Statistical_Analysis/blob/main/Images/Test_Lot3.png)
+
+
+## Study Design: MechaCar vs Competition
