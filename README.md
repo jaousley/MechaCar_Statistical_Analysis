@@ -30,3 +30,11 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 
 ## T-Tests on Suspension Coils
+
+![Test_All_Lots.png](https://github.com/jaousley/MechaCar_Statistical_Analysis/blob/main/Images/Test_All_Lots.png)
+
+![Test_Lot1](https://github.com/jaousley/MechaCar_Statistical_Analysis/blob/main/Images/Test_Lot1.png)
+
+![Test_Lot2](https://github.com/jaousley/MechaCar_Statistical_Analysis/blob/main/Images/Test_Lot2.png)
+
+![Test_Lot3](https://github.com/jaousley/MechaCar_Statistical_Analysis/blob/main/Images/Test_Lot3.png)
